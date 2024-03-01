@@ -5,3 +5,824 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
  
 --- Debugging process stopped ---
 
+2024-03-01T23:11:47:INFO: [step_commands: 1]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:11:58:INFO: [step_commands: 2]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:00:INFO: [step_commands: 3]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:05:INFO: [step_commands: 4]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Create Node
+
+2024-03-01T23:12:09:INFO: [step_commands: 5]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Create Node
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:14:INFO: [step_commands: 6]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Create Node
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:23:INFO: [step_commands: 7]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+
+2024-03-01T23:12:24:INFO: [step_commands: 8]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:28:INFO: [step_commands: 9]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+
+2024-03-01T23:12:30:INFO: [step_commands: 10]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:34:INFO: [step_commands: 11]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:39:INFO: [step_commands: 12]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:41:INFO: [step_commands: 13]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:44:INFO: [step_commands: 14]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:12:48:INFO: [step_commands: 15]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:13:08:INFO: [step_commands: 16]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:13:11:INFO: [step_commands: 17]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Start:<Node2D#10294952784972>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+Chest:<Area2D#10602579827012>
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-01T23:13:29:INFO: [step_commands: 18]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+
