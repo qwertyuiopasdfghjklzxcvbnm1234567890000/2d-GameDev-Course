@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://btkjymc78ap8d"]
+[gd_scene load_steps=4 format=3 uid="uid://btkjymc78ap8d"]
 
 [ext_resource type="PackedScene" uid="uid://dmv50krf4bo5r" path="res://lessons/ship.tscn" id="2_2j1u5"]
+[ext_resource type="PackedScene" uid="uid://dfmt7iuan8xh8" path="res://lessons/health_pack.tscn" id="3_61hpn"]
 [ext_resource type="PackedScene" uid="uid://bxfevggvxo634" path="res://assets/background/space_background.tscn" id="3_e6xy1"]
 
 [node name="Level" type="Node2D"]
@@ -9,3 +10,153 @@
 position = Vector2(946, 546)
 
 [node name="SpaceBackground" parent="." instance=ExtResource("3_e6xy1")]
+
+[node name="HealthPack" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1528, 620)
+
+[node name="HealthPack2" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1417, 628)
+
+[node name="HealthPack3" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1431, 743)
+
+[node name="HealthPack4" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1423, 687)
+
+[node name="HealthPack5" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1529, 681)
+rotation = -0.00740734
+
+[node name="HealthPack6" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(871, 595)
+rotation = -0.00740734
+
+[node name="HealthPack7" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1538, 737)
+
+[node name="HealthPack8" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1482, 740)
+
+[node name="HealthPack9" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1252, 584)
+
+[node name="HealthPack10" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1253, 636)
+
+[node name="HealthPack11" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1303, 579)
+
+[node name="HealthPack12" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1258, 741)
+
+[node name="HealthPack13" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1255, 687)
+
+[node name="HealthPack14" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1359, 656)
+
+[node name="HealthPack15" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1357, 578)
+
+[node name="HealthPack16" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1304, 656)
+
+[node name="HealthPack17" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1744, 524)
+
+[node name="HealthPack18" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1633, 532)
+
+[node name="HealthPack19" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1647, 647)
+
+[node name="HealthPack20" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1639, 591)
+
+[node name="HealthPack21" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1745, 585)
+rotation = -0.00740734
+
+[node name="HealthPack22" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1087, 499)
+rotation = -0.00740734
+
+[node name="HealthPack23" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1754, 641)
+
+[node name="HealthPack24" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1698, 644)
+
+[node name="HealthPack25" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1468, 488)
+
+[node name="HealthPack26" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1469, 540)
+
+[node name="HealthPack27" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1519, 483)
+
+[node name="HealthPack28" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1474, 645)
+
+[node name="HealthPack29" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1471, 591)
+
+[node name="HealthPack30" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1575, 560)
+
+[node name="HealthPack31" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1573, 482)
+
+[node name="HealthPack32" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1520, 560)
+
+[node name="HealthPack33" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1836, 910)
+
+[node name="HealthPack34" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1725, 918)
+
+[node name="HealthPack35" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1739, 1033)
+
+[node name="HealthPack36" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1731, 977)
+
+[node name="HealthPack37" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1837, 971)
+rotation = -0.00740734
+
+[node name="HealthPack38" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1179, 885)
+rotation = -0.00740734
+
+[node name="HealthPack39" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1846, 1027)
+
+[node name="HealthPack40" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1790, 1030)
+
+[node name="HealthPack41" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1540, 859)
+
+[node name="HealthPack42" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1474, 911)
+
+[node name="HealthPack43" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1611, 869)
+
+[node name="HealthPack44" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1566, 1031)
+
+[node name="HealthPack45" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1563, 977)
+
+[node name="HealthPack46" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1667, 946)
+
+[node name="HealthPack47" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1665, 868)
+
+[node name="HealthPack48" parent="." instance=ExtResource("3_61hpn")]
+position = Vector2(1612, 946)
