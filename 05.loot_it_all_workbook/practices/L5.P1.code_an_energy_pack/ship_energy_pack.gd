@@ -26,4 +26,8 @@ func _process(delta: float) -> void:
 func _on_area_entered(area: Area2D) -> void:
 	get_node("UI/EnergyBar").value += 20.0
 	energy += 20.0
-	
+	if area_that_entered.is_in_group("energy"):
+		get_node("UI/EnergyBar").value += 20.0
+		energy += 20.0
+	elif area_that_entered.is_in_group("healing_item"):
+		set_health(health + 10)
