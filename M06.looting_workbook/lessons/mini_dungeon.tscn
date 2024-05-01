@@ -324,57 +324,10 @@ color = Color(0.977546, 0.842183, 0.960847, 1)
 metadata/_edit_lock_ = true
 
 [node name="Chest" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(589, 240)
+position = Vector2(779, 240)
 
 [node name="Chest2" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(465, 328)
+position = Vector2(432, 318)
 
 [node name="Chest3" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(441, 246)
-
-[node name="Chest4" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(668, 368)
-
-[node name="Chest5" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(712, 273)
-rotation = 0.96073
-
-[node name="Chest6" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(618, 294)
-rotation = 0.602455
-
-[node name="Chest12" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(485, 216)
-rotation = 0.602455
-
-[node name="Chest13" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(595, 176)
-rotation = 3.68571
-
-[node name="Chest14" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(595, 176)
-rotation = 8.04092
-
-[node name="Chest15" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(595, 176)
-rotation = 11.48
-
-[node name="Chest7" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(810, 218)
-rotation = 0.602455
-
-[node name="Chest8" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(803, 379)
-rotation = 0.602455
-
-[node name="Chest9" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(803, 379)
-rotation = -0.603551
-
-[node name="Chest10" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(431, 361)
-rotation = -0.603551
-
-[node name="Chest11" parent="." instance=ExtResource("7_la2ss")]
-position = Vector2(549, 346)
-rotation = -0.603551
+position = Vector2(608, 248)
