@@ -1,14 +1,11 @@
-[gd_scene load_steps=3 format=3 uid="uid://c601w57k2rnk"]
+[gd_scene load_steps=2 format=3 uid="uid://c601w57k2rnk"]
 
 [ext_resource type="PackedScene" path="res://practices/L6.P1.the_pinata/balloon_pinata.tscn" id="1_33y8y"]
-[ext_resource type="PackedScene" path="res://practices/L6.P1.the_pinata/candy/candy.tscn" id="2_dw1pw"]
 
 [node name="ThePiñata" type="Node2D"]
 metadata/_edit_horizontal_guides_ = []
 
 [node name="BalloonPinata" parent="." instance=ExtResource("1_33y8y")]
-
-[node name="Candy" parent="BalloonPinata" instance=ExtResource("2_dw1pw")]
 
 [node name="ExtraVisuals" type="Node" parent="."]
 
