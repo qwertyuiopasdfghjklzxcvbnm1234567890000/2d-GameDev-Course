@@ -57,7 +57,3 @@ func _spawn_random_items() -> void:
 	var jump_height := randf_range(30.0, 80.0)
 	tween.tween_property(loot_item, "position:y", land_position.y - jump_height, HALF_FLIGHT_TIME)
 	tween.tween_property(loot_item, "position:y", land_position.y, HALF_FLIGHT_TIME)
-
-func ifjiwejoifjwieojfioajwefoijalwefjawhefuihauwieflaw():
-	pass
-	
