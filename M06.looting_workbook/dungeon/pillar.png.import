@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://l0y1k1obencd"
-path="res://.godot/imported/spider_web.png-e4b63a764fc416cd285eadc86a808826.ctex"
+uid="uid://c1rgncfgjxefj"
+path="res://.godot/imported/pillar.png-afc56cfed639809ff532b858b690c6fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/dungeon/spider_web.png"
-dest_files=["res://.godot/imported/spider_web.png-e4b63a764fc416cd285eadc86a808826.ctex"]
+source_file="res://dungeon/pillar.png"
+dest_files=["res://.godot/imported/pillar.png-afc56cfed639809ff532b858b690c6fc.ctex"]
 
 [params]
 

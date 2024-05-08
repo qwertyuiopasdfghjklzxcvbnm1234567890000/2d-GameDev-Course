@@ -1,10 +1,10 @@
 [gd_scene load_steps=12 format=3 uid="uid://cit7gnkdckyux"]
 
-[ext_resource type="Texture2D" uid="uid://114x1a0rmx4l" path="res://assets/dungeon/smooth_dungeon_tileset.png" id="1_sym7n"]
-[ext_resource type="Texture2D" uid="uid://cae527caaj50v" path="res://assets/dungeon/shadow_map.png" id="2_jthdw"]
-[ext_resource type="Texture2D" uid="uid://dpym64uaptlhb" path="res://assets/dungeon/grass_tileset.png" id="3_5xjiv"]
-[ext_resource type="Texture2D" uid="uid://c1rgncfgjxefj" path="res://assets/dungeon/pillar.png" id="4_gq228"]
-[ext_resource type="Texture2D" uid="uid://l0y1k1obencd" path="res://assets/dungeon/spider_web.png" id="5_ywba7"]
+[ext_resource type="Texture2D" uid="uid://114x1a0rmx4l" path="res://dungeon/smooth_dungeon_tileset.png" id="1_sym7n"]
+[ext_resource type="Texture2D" uid="uid://cae527caaj50v" path="res://dungeon/shadow_map.png" id="2_jthdw"]
+[ext_resource type="Texture2D" uid="uid://dpym64uaptlhb" path="res://dungeon/grass_tileset.png" id="3_5xjiv"]
+[ext_resource type="Texture2D" uid="uid://c1rgncfgjxefj" path="res://dungeon/pillar.png" id="4_gq228"]
+[ext_resource type="Texture2D" uid="uid://l0y1k1obencd" path="res://dungeon/spider_web.png" id="5_ywba7"]
 [ext_resource type="PackedScene" uid="uid://eundh35r605v" path="res://assets/torch/torch.tscn" id="6_fokey"]
 [ext_resource type="PackedScene" uid="uid://cadjlw20vtqe7" path="res://lessons/chest/chest.tscn" id="7_la2ss"]
 

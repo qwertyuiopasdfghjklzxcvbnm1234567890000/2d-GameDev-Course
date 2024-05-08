@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cae527caaj50v"
-path="res://.godot/imported/shadow_map.png-d86b1c844819930cc64b7c7513c0c417.ctex"
+uid="uid://l0y1k1obencd"
+path="res://.godot/imported/spider_web.png-37139daa9e0264945ab0de85cdc321d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/dungeon/shadow_map.png"
-dest_files=["res://.godot/imported/shadow_map.png-d86b1c844819930cc64b7c7513c0c417.ctex"]
+source_file="res://dungeon/spider_web.png"
+dest_files=["res://.godot/imported/spider_web.png-37139daa9e0264945ab0de85cdc321d1.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://114x1a0rmx4l"
-path="res://.godot/imported/smooth_dungeon_tileset.png-aa4d118bc0ce6af89239b572e4642084.ctex"
+uid="uid://cae527caaj50v"
+path="res://.godot/imported/shadow_map.png-fcd3a8a3502d25b14024e9ad52f80bb5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/dungeon/smooth_dungeon_tileset.png"
-dest_files=["res://.godot/imported/smooth_dungeon_tileset.png-aa4d118bc0ce6af89239b572e4642084.ctex"]
+source_file="res://dungeon/shadow_map.png"
+dest_files=["res://.godot/imported/shadow_map.png-fcd3a8a3502d25b14024e9ad52f80bb5.ctex"]
 
 [params]
 
